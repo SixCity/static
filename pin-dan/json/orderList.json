@@ -1,0 +1,70 @@
+{
+  "orderStatus": 0,
+  "orderNo": 878764567687,
+  "totalAmount": 2399.09,
+  "orderList": [
+    {
+      "followUser": {
+        "uName": "Abbay0",
+        "time": "2017-07-26 09:26",
+        "getWay": 1,
+        "tel": 13812345678,
+        "city": "上海 上海市 徐汇区",
+        "street": "徐家汇街道 肇嘉浜路1065号 8楼808室",
+        "postCode": 230000
+      },
+      "shopping": [
+        {
+          "shoppingImg": "http://6city.mu.gg/static/pin-dan/img/shopping.png",
+          "title": " (アディダス)adidas ランニングウェア snovaTOKYO レイヤードTシャツ TOKYO レイヤードT ",
+          "price": 327.01,
+          "quality": 1,
+          "skus": "ホワイト/コアレッド S17, Small",
+          "canceled": false
+        },
+        {
+          "shoppingImg": "http://6city.mu.gg/static/pin-dan/img/shopping.png",
+          "title": " (アディダス)adidas ランニングウェア snovaTOKYO レイヤードTシャツ TOKYO レイヤードT ",
+          "price": 32.01,
+          "quality": 1,
+          "skus": "ホワイト/コアレッド S17, Small,コアレッド",
+          "canceled": true
+        },
+        {
+          "shoppingImg": "http://6city.mu.gg/static/pin-dan/img/shopping.png",
+          "title": " (アディダス)adidas ランニングウェア snovaTOKYO レイヤードTシャツ TOKYO レイヤードT ",
+          "price": 327.01,
+          "quality": 1,
+          "skus": "ホワイト/コアレッド S17, Small",
+          "canceled": false
+        }
+      ]
+    },
+    {
+      "followUser": {
+        "uName": "Abbay1",
+        "time": "2017-07-26 09:26",
+        "getWay": 0,
+        "tel": 13812345678
+      },
+      "shopping": [
+        {
+          "shoppingImg": "http://6city.mu.gg/static/pin-dan/img/shopping.png",
+          "title": " (アディダス)adidas ランニングウェア snovaTOKYO レイヤードTシャツ TOKYO レイヤードT ",
+          "price": 327.01,
+          "quality": 1,
+          "skus": "ホワイト/コアレッド S17, Small",
+          "canceled": false
+        },
+        {
+          "shoppingImg": "http://6city.mu.gg/static/pin-dan/img/shopping.png",
+          "title": " (アディダス)adidas ランニングウェア snovaTOKYO レイヤードTシャツ TOKYO レイヤードT ",
+          "price": 327.01,
+          "quality": 1,
+          "skus": "ホワイト/コアレッド S17, Small",
+          "canceled": false
+        }
+      ]
+    }
+  ]
+}
