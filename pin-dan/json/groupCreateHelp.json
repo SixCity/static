@@ -5,11 +5,13 @@
     "strong": "如何粘贴商品网址",
     "list": [{
         "title": "1. 以Amazon为例，找到商品的详情页，“拷贝”商品网址。",
-        "img": ""
+        "img": "/img/help/create_1.png",
+        "style":"width:690rpx;height:678rpx;"
       },
       {
         "title": "2. “黏贴”至商品输入框，点击“完成”按钮即可。",
-        "img": ""
+        "img": "/img/help/create_2.png",
+        "style":"width:690rpx;height:546rpx;"
       }
     ],
     "Tips": "Tips:若参加拼单的商品有多个，您可以点击“继续添加”按钮进行添加。"
